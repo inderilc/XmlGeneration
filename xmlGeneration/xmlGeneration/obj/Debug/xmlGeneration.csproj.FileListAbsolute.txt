@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\bin\Debug\xmlGeneration.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\bin\Debug\xmlGeneration.exe
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\bin\Debug\xmlGeneration.pdb
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\bin\Debug\Dapper.dll
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\bin\Debug\FishbowlSDK.20152.dll
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\bin\Debug\CsvHelper.dll
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\bin\Debug\Dapper.xml
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\obj\Debug\xmlGeneration.exe
+c:\users\owner\documents\visual studio 2015\Projects\xmlGeneration\xmlGeneration\obj\Debug\xmlGeneration.pdb
